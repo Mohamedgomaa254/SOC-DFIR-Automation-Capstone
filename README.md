@@ -158,6 +158,6 @@ tshark -r "week-2&3/pcaps/C2+DGA-ether.pcap" \
 ## 👤 Author
 
 **Youssef Amjad**
-🔗 [GitHub](https://github.com/Mohamedgomaa254)
+🔗 [GitHub](https://github.com/youssefamjad12-dotcom)
 
 <sub>Graduation project · Digital Egypt Pioneers Initiative</sub>
